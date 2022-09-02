@@ -1,3 +1,4 @@
 {
-    "hello": "Hello World!"
+    "hello": "Hello World!",
+    "exitConfirm": "Are you sure you want to quit?"
 }
